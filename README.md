@@ -22,7 +22,7 @@ _More bots and features will be added soon..._
 **This will totally work. Try by yourself with deploying it.** 
 
 ## Deploy to heroku:
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Shark_kuntaro/AutoProtecc-Userbot)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Shark-kuntaro/AutoProtecc-Userbot)
 
 ## Get string session:
 [![Run on Repl](https://repl.it/badge/github/STARKGANG/friday)](https://replit.com/@zYxDevs/StringSession)
